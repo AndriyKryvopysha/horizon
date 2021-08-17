@@ -1,0 +1,216 @@
+body {
+font-family: 'Montserrat', sans-serif;
+background: #F5F7FA
+}
+
+
+.main_container {
+display: flex;
+flex-direction: row-reverse;
+width: 1200px;
+background: #ffffff;
+margin: 40px auto;
+box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+/* Main center section */
+.about_me_profession{
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+}
+.main_content_section{
+    padding: 100px 90px 100px 90px;
+}
+/* About me Section */
+.about_me_section{
+margin: 0px 0px 40px 0px;
+
+}
+.about_me_profession{
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color: #000;
+margin: 0 0 20px 0; 
+}
+.about_me_name{
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 55px;
+color: #000;   
+margin: 0 0 25px 0;    
+}
+.about_me_descripion{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+width: 400px;
+}
+
+/* My Projects Section */
+.about_me_titles{
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+color: #000;
+margin-bottom: 10px;
+}
+
+.my_projects_section{
+margin: 0px 0px 50px 0px;
+
+}
+
+.my_projects_list{
+padding: 0 0 0 20px;
+}
+
+.my_projects_text{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+margin-left: 10px;
+}
+
+.my_projects_links{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+}
+
+.my_project_br{
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+color: #000;
+}
+
+/* My Experience Section */
+.experience_section{
+margin: 0px 0px 50px 0px;
+
+}
+
+.my_experience_psn{
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+margin: 0 0 10px 0;
+}
+
+.experience_type{
+color: #FB6D3A;
+}
+
+.my_experience_time{
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+color: #a8a8a8;
+margin: 0 0 10px 0;
+}
+
+.my_experience_dev{
+color: black;
+}
+
+.my_experience_duty{
+padding: 0 0 0 20px;
+}
+
+.my_experience_du{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+}
+
+.my_experience_du1{
+margin: 0 0 15px 0;
+}
+/* Education Section */
+
+.education_section{
+margin: 40px 0px 40px 0px;
+
+}
+
+.education_place{
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+margin: 10px 0 10px 0;
+color: coral;
+}
+
+.education_psn{
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+}
+
+/* Side bar section */
+.sidebar_section,
+.sidebar_all{
+background: #2b3a50;
+width: 370px;
+padding: 0px 0px;
+
+
+}
+.contact_section,
+.tech_section,
+.soft_skills{
+margin: 50px 0 0 40px;
+}
+.sidebar_titeles{
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;    
+color: #ffffff;
+margin-bottom: 10px;
+}
+/* Telephone email */
+.tel_email{
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+margin-right: 5px;
+color: #ffffff;
+}
+.tel_email2{
+color: #8E949C;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+}
+.skills_section{
+padding-left: 20px;
+}
+.skills_items{
+color: #FB6D3A;    
+}
+.skills_items_text{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #ffffff;    
+}

@@ -1,0 +1,43 @@
+/*Selector{Property: value;
+} */
+body {
+  background-image: url(aaa.jpg);
+  background-size: cover;
+}
+img {
+  margin: 10px 850px 10px 850px;
+  padding: center;
+}
+
+h2,
+p {
+  color: #260339;
+  text-align: center;
+  border: 5px dashed rgb(103, 152, 154);
+  cursor: pointer;
+  line-height: 25px;
+  font-style: italic;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+}
+li {
+  list-style: none;
+  display: inline-block;
+}
+p {
+  color: black;
+}
+.weblast {
+  border: 5px dashed red;
+}
+header {
+  background: darkgreen;
+}
+
+.boxmod {
+  border: 5px solid red;
+  padding: 0 20px;
+  margin: 0 20px;
+  width: 400px;
+  height: 30px;
+}
